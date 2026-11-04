@@ -29,6 +29,16 @@ This table lists out the requirements this payload must achieve. Notice that eac
 
 Note that in any future and more complex payload project that you will need to list your requirements in this format.
 
+## 4. Payload Interfaces
+
+Another important part of the design process is thinking about all the different parts of your payload and how they will interface with each other.
+
+How will the outputs of one part become the inputs of another part?
+
+A useful tool to visualize this is an N-Squared Diagram. An example diagram that shows the different subsystems for this payload and how they interact with each other is shown below.
+
+![image alt](https://github.com/PHLYNG/HAB-CINT/blob/6cae15234f2ac731311169ae09e45fc66a6c2dcb/images/Screenshot%202026-11-04%20170735.png)
+
 Now that the requirements have been established, let's take a look at what materials we will need to build this payload!
 
 Next section: [Materials](Materials.md)
