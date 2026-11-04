@@ -27,7 +27,7 @@ In the table below, the requirements this payload must achieve are listed. Notic
 
 Note that in any future and more complex payload project that you will need to list your requirements in this format.
 
-![image alt](https://github.com/PHLYNG/CTU-AE-150/blob/142fdc40098bdaa03c6dfa7d9548fe55942ff183/images/user%20payload%20requirements%20matrix.png)
+![image alt](https://github.com/PHLYNG/HAB-CINT/blob/05184c658426a78512e607791f99fce0f0219830/images/Screenshot%202026-11-04%20171753.png)
 
 ## 4. Payload Interfaces
 
