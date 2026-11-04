@@ -23,9 +23,11 @@ The purpose of this manual is to give you, the user, a workflow that will build 
 
 ## 3. Baseline Payload Requirements
 
-This table lists out the requirements this payload must achieve. Notice that each requirement is numbered, clearly stated what must be accomplished, and why.
+In the table below, the requirements this payload must achieve are listed. Notice that each requirement is numbered, clearly stated what must be accomplished, and why.
 
 Note that in any future and more complex payload project that you will need to list your requirements in this format.
+
+![image alt](https://github.com/PHLYNG/CTU-AE-150/blob/142fdc40098bdaa03c6dfa7d9548fe55942ff183/images/user%20payload%20requirements%20matrix.png)
 
 ## 4. Payload Interfaces
 
