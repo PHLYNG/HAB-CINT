@@ -21,3 +21,5 @@ Payload sealed up and ready for flight.
 ![image alt](https://github.com/PHLYNG/HAB-CINT/blob/795715b733a5026163eaf000fdff95079c462b8b/images/PXL_20260916_145332897.jpg)
 
 A 3D printed mounting structure for an integrated circuit soldered onto perfboard, mounted to the wall of a foam core board payload structure.
+
+Once you have a firm idea of how your payload will be assembled, head over to the [Calibration/Testing](Calibration.md) section to see how you can conduct some basic tests on it to make sure your sensors perform as expected!
