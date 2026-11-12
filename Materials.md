@@ -15,6 +15,8 @@ The Real Time Clock (RTC) and MS5611 both are a means of correlating scientific 
 
 The Inertial Measurement Unit (IMU) can tell you how your payload is oriented throughout the flight. That could be important if you have a sensor that requires an orientation that is perpendicular to the Earth's surface as the payload is rising.
 
+The graphic below visualizes IMU data in two different ways. The left hand side shows the orientation of the payload in 3D space, while the left hand side shows where the payload is in terms of altitude relative to the flight time.
+
 ![img alt](https://github.com/PHLYNG/CTU-AE-150/blob/f84b2b25b0527a2344d09eb8b14be9175b818866/images/Screenshot%202026-10-23%20145406.png)
 
 ## Basic Materials
