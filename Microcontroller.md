@@ -32,6 +32,6 @@ To setup the ESP32, follow the instructions below:
 
     ![image alt](https://github.com/PHLYNG/CTU-AE-150/blob/b00f86b29cd741b76f62bf935e3a95e97742a8c6/images/esp32%20adruino%20ide%20selection.png)
 
-You are now ready to upload code to your ESP32! To run some test code on your sensors to make sure they work, go to the Sensor Package section.
+You are now ready to upload code to your ESP32! To run some test code on your sensors to make sure they work, go to the Initialize Sensors section.
 
-Next section: [Sensor Package](Sensor_Package.md)
+Next section: [Initialize Sensors](Initialize_Sensors.md)
