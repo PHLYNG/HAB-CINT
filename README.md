@@ -15,6 +15,4 @@
 7. [Payload Structure](Payload_Structure.md)
 8. [Soldering](Soldering.md)
 9. [Calibration/Testing](Calibration.md)
-10. Flight
-11. [HAB Tracker](HAB_Tracker.md)
-12. Data Analysis
+10. [Pre-Flight/Post-Flight](Flight.md)
